@@ -1,0 +1,17 @@
+{
+    "instance_url": "https://xiajun-dev-ed.my.salesforce.com", 
+    "project name": "Lightning-Specialist-Superbadge", 
+    "headers": {
+        "Accept": "application/json", 
+        "Authorization": "OAuth 00D7F000001vMRh!AQUAQIbar9uYwzKZ7EpYxaeT8U0PmD1BkoKt7TlT.G5.S25qX5xBl_J9BLT4hNHS3qrbrq3bynJGqKtBHJt.88Ub..IkbkjG", 
+        "Content-Type": "application/json; charset=UTF-8"
+    }, 
+    "rest_url": "https://xiajun-dev-ed.my.salesforce.com/services/data/v35.0", 
+    "time_stamp": "2018-04-24 12:05:48", 
+    "session_id": "00D7F000001vMRh!AQUAQIbar9uYwzKZ7EpYxaeT8U0PmD1BkoKt7TlT.G5.S25qX5xBl_J9BLT4hNHS3qrbrq3bynJGqKtBHJt.88Ub..IkbkjG", 
+    "user_id": "0057F000000KGbmQAG", 
+    "success": true, 
+    "metadata_url": "https://xiajun-dev-ed.my.salesforce.com/services/Soap/m/35.0", 
+    "apex_url": "https://xiajun-dev-ed.my.salesforce.com/services/Soap/s/35.0", 
+    "partner_url": "https://xiajun-dev-ed.my.salesforce.com/services/Soap/u/35.0"
+}
